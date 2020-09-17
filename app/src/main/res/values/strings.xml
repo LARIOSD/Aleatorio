@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aleatorio</string>
+    <string name="menu1">Aleatorio</string>
+    <string name="menu2">Distancia</string>
+
+    <string name="ptmedio">Punto medio</string>
+    <string name="distancia">Pendiente</string>
+    <string name="cuadrante">Cuadrante</string>
+    <string name="x1">X1:</string>
+    <string name="x2">X2:</string>
+    <string name="y1">Y1:</string>
+    <string name="y2">Y2:</string>
+    <string name="result">0</string>
+</resources>
